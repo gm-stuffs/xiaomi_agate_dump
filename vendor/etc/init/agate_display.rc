@@ -1,0 +1,4 @@
+on post-fs-data
+    mkdir /mnt/vendor/persist/display 0770 system system
+	copy /vendor/etc/display_calib_default.mcr /mnt/vendor/persist/display/display_calib_default.mcr
+	write /sys/class/mi_display/disp-DSI-0/calib 1
