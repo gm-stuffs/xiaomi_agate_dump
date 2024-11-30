@@ -1,0 +1,14 @@
+# missi_phone_global-user 14 UP1A.231005.007 V816.0.9.0.UKWMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: agate
+- flavor: missi_phone_global-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: V816.0.9.0.UKWMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/vnd_agate/agate:12/SP1A.210812.016/V816.0.9.0.UKWMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-14-UP1A.231005.007-V816.0.9.0.UKWMIXM-release-keys
+- repo: xiaomi_agate_dump
